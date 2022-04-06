@@ -72,7 +72,7 @@ variable "azure_spoke_instance_size" {
 }
 
 variable "azure_spoke2_region" {
-  default = "UAE North"
+  default = "Australia East"
 }
 
 variable "azure_spoke2_name" {
