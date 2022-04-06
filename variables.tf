@@ -93,5 +93,5 @@ variable "ace_ec2_key_name" {
 
 variable "ha_enabled" {
   type    = bool
-  default = false
+  default = true
 }
